@@ -16,3 +16,4 @@ El uso de la variabilidad del dato String fue clave para identificar un problema
 <h2 style="font-size:30px;">Proyecto: Bugbank  </h2>
 A diferencia de los proyectos anteriores, este fue una aplicación web con mayor complejidad debido a la interacción directa del usuario y la necesidad de proteger los movimientos financieros y la seguridad de los datos. Nos enfocamos principalmente en garantizar una excelente experiencia de usuario, priorizando la protección de los bienes financieros y la integridad de la información. Las pruebas también se centraron en evaluar la capacidad de respuesta de la aplicación y asegurar la seguridad en la transferencia de información sensible, como datos personales y bancarios, asegurando que estos se gestionaran de manera adecuada en todos los procesos.
 
+
