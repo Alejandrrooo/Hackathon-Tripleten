@@ -1,4 +1,4 @@
-# Hackaton-eqiupo04
+# Hackaton-equipo04
 
 <h2 style="font-size:50px;">Presentación </h2>
 Para garantizar la máxima calidad en nuestros desarrollos, optamos por realizar pruebas exhaustivas manuales en las tres plataformas: Platzi, Booker y Bugbank. Trabajamos sin requisitos definidos, lo que significaba que avanzamos basándonos en nuestro instinto, lógica y en lo que consideramos más importante para el usuario final. Este enfoque nos permitió priorizar la experiencia del usuario, evaluando los sistemas en función de los tipos de datos que teníamos a la mano: string, numérico y booleano.
